@@ -1,0 +1,6 @@
+pillow
+joblib
+torch 
+torchvision
+fastai
+numpy==1.26.4
