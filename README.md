@@ -1,6 +1,8 @@
 # HairType with Pre-trained Model
 
 ![alt text](https://i.imgur.com/MDJfzDT.gif)
+
+
 This code script is a Python program designed for loading an image, preprocessing it, and making predictions using a pre-trained machine learning model. Model has been trained on 1994 images using fast.ai (ResNet-50). Image 'image.jpg' has been downloaded as an input example from https://thispersondoesnotexist.com/
 
 ## Libraries and Imports
